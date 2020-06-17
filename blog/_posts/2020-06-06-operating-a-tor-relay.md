@@ -35,7 +35,7 @@ Operating a Tor relay was simpler than expected as a project for data analysis a
 
 - 7,000 concurrent connections.
 - 16 Mbps upload and download bandwidth.
-- 100GB of in/outbound traffic, montly.
+- 100GB of in/outbound traffic, monthly.
 - Public IPv4/IPv6 address (preferably static).
 - 24/7 uptime (reboots and daemon restarts are fine).
 
